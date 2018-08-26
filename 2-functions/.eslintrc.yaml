@@ -1,0 +1,5 @@
+root: true
+extends: standard
+rules:
+  linebreak-style: [error, unix]
+  max-len: [error, 140]
