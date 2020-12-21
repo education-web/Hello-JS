@@ -1,2 +1,2 @@
 # Hello-JS
-This is my first project. My first steps to the infinite world of coding.
+This is a good first project for beginners. First steps to the infinite world of coding.
