@@ -1,3 +1,9 @@
+/**
+ * @param x0 - starting coordinate
+ * @param v - speed
+ * @param t - time
+ * @param a - acceleration
+ */
 const findFinishPoint = (x0, v, t, a) => {
   /* x0 - starting coordinate, v - speed, t - time, a - add. speed, x - ending coordinate, s - whole passed way */
   const x = x0 + v * t + ( a * t ** 2) / 2
